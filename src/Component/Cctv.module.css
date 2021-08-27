@@ -1,0 +1,63 @@
+.content1 {
+  position: absolute; /* Position the background text */
+  top: 200px; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 100%; /* Full width */
+  padding: 20px; /* Some padding */
+}
+.Cctvimg {
+  margin-top: 60px;
+}
+.Cctvimg p {
+  font-size: 12pt;
+  font-family: Roboto, sans-serif;
+  color: #585858;
+  background-color: transparent;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  text-decoration: none;
+  vertical-align: baseline;
+  white-space: pre-wrap;
+  word-spacing: 0.2rem;
+  line-height: 2;
+  margin-top: 80px;
+}
+.CctvimgPoints {
+  margin-left: 40px;
+  margin-top: 30px;
+  text-align: center;
+  font-family: "Helvetica", Sans-serif;
+  font-size: 17px;
+}
+.CctvimgPoints h3 {
+  text-align: center;
+  color: #ab0101;
+  font-family: "Raleway", Sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+.Cctvtech {
+  margin-left: 50px;
+}
+.Cctvtech li {
+  margin-left: 60px;
+}
+.Cctvwork h3{
+  text-align: center;
+  color: #ab0101;
+  font-family: "Raleway", Sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+.Cctvwork li{
+  font-size: 12pt;
+  font-family: Roboto, sans-serif;
+  color: #585858;
+  line-height:2.5;
+  text-align: start;
+  margin-left: 20%;
+  word-spacing: 0.2rem;
+}

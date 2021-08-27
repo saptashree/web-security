@@ -1,0 +1,72 @@
+.content1 {
+  position: absolute; /* Position the background text */
+  top: 200px; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 100%; /* Full width */
+  padding: 20px; /* Some padding */
+}
+.fire img {
+  height: 400px;
+  width: 500px;
+  margin-top: 60px;
+}
+.fire p {
+  font-size: 12pt;
+  font-family: Roboto, sans-serif;
+  color: #585858;
+  background-color: transparent;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  text-decoration: none;
+  vertical-align: baseline;
+  white-space: pre-wrap;
+  word-spacing: 0.2rem;
+  line-height: 2;
+  margin-top: 80px;
+}
+.firep {
+  font-size: 12pt;
+  font-family: Roboto, sans-serif;
+  color: #585858;
+  background-color: transparent;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  text-decoration: none;
+  vertical-align: baseline;
+  white-space: pre-wrap;
+  word-spacing: 0.2rem;
+  line-height: 1.6;
+  margin-top: 30px;
+}
+.firework h3 {
+  text-align: center;
+  color: #ab0101;
+  font-family: "Raleway", Sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+.firework li {
+  font-size: 12pt;
+  font-family: Roboto, sans-serif;
+  color: #585858;
+  line-height: 2.5;
+  text-align: start;
+  margin-left: 20%;
+  word-spacing: 0.2rem;
+}
+.but button {
+  margin-left: 50%;
+  font-family: "Roboto", Sans-serif;
+  font-size: 19px;
+  font-weight: 500;
+  background-color: rgb(192, 59, 59);
+  border-radius: 20px 20px 20px 20px;
+  color: white;
+  border-color: rgb(241, 62, 62);
+ 
+  border: none;
+}

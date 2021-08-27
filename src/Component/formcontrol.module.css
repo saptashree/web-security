@@ -1,0 +1,12 @@
+.sub1{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+    background:rgb(236, 23, 23);
+    padding: 15px 25px 15px 25px;
+    border: none;
+    border-radius: 5px;
+    width: auto;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}

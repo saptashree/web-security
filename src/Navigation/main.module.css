@@ -1,0 +1,13 @@
+.alinks{
+    color: #24292e;
+    padding: 1.220rem 1rem;
+    font-weight: 500;
+    font-size: 1rem;
+}
+.navs li{
+padding: 20px;
+}
+ .navs li:hover{
+     color: #dd3636;
+ }
+

@@ -1,0 +1,28 @@
+.home2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: 0;
+  margin-right: -60%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+
+  color: black;
+}
+.home3 {
+  text-align: center;
+  z-index: 9999;
+  bottom: 60%;
+  right: 60%;
+  margin: 0;
+  margin-right: -40%;
+}
+.fixedimage {
+  position: relative;
+}
+.home2 h2 {
+  color: aliceblue;
+}
+.slide h3 {
+  margin-top: 20px;
+}

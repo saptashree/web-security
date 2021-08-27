@@ -1,0 +1,53 @@
+.content1 {
+  position: absolute; /* Position the background text */
+  top: 200px; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 100%; /* Full width */
+  padding: 20px; /* Some padding */
+}
+.physical1 img {
+  margin-top: 20%;
+}
+.but button {
+  margin-left: 50%;
+  font-family: "Roboto", Sans-serif;
+  font-size: 19px;
+  font-weight: 500;
+  background-color: rgb(192, 59, 59);
+  border-radius: 20px 20px 20px 20px;
+  color: white;
+  border-color: rgb(241, 62, 62);
+
+  border: none;
+}
+
+.content2 p {
+  font-size: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.content3 h4{
+  font-size: 16px;
+    line-height: 20px;
+    margin-left: 5%;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.content3 ul{
+  margin-left: 10%;
+  margin-top: 10px;
+}
+.content4 h4{
+  font-size: 16px;
+    line-height: 20px;
+    margin-left: 5%;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.content4 ul{
+  margin-left: 10%;
+  margin-top: 10px;
+}
+

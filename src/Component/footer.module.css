@@ -1,0 +1,30 @@
+.footer1 h3{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+    margin-bottom: 40px;
+    position: relative;
+    text-transform: capitalize;
+}
+.imagebox{
+    background: #fff;
+    border: #dee2e6 solid 1px;
+    padding: 15px;
+    margin-bottom: 20px;
+
+}
+.footer1 img{
+    width: 388px;
+    height: 210px;
+}
+.imagebox h2{
+    font-size: 20px;
+    padding-bottom: 0.3em;
+    line-height: 1.25;
+}
+.imagebox span{
+    font-size: 12px;
+    display: block;
+    color: #6c757d;
+    font-style: italic;
+}
