@@ -11,7 +11,7 @@ function Cctv() {
         allowfullscreen="1"
         allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         title="YouTube video player"
-        width="1540px"
+        width="100%"
         height="600px"
         left="-84.6px"
         autoPlay="1"
@@ -22,6 +22,7 @@ function Cctv() {
       />
       <div className={classes.content1}>
         <h1>CCTV Systems</h1>
+        
       </div>
        <div>
       <Container  >

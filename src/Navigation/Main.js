@@ -23,9 +23,9 @@ const Main = () => {
   const toggle = () => setIsOpen(!isOpen);
   const logo = (
     <img
-      src="/Images/Logo1.png"
+      src="/Images/logo1.png"
       style={{ height: "87px", width: "220px", marginTop: "10px" }}
-      alt=""
+      alt="logo-1"
     />
   );
 
@@ -162,7 +162,6 @@ const Main = () => {
                   to="/our clients"
                   activeClassName="active"
                   activeStyle={{ borderBottom: "5px solid #cc0000" }}
-
                 >
                   Our Clients
                 </NavLink>
@@ -174,7 +173,6 @@ const Main = () => {
                   to="/partners"
                   activeClassName="active"
                   activeStyle={{ borderBottom: "5px solid #cc0000" }}
-
                 >
                   partners
                 </NavLink>
@@ -187,7 +185,6 @@ const Main = () => {
                   to="/media center"
                   activeClassName="active"
                   activeStyle={{ borderBottom: "5px solid #cc0000" }}
-
                 >
                   Media Center
                 </NavLink>
@@ -199,7 +196,6 @@ const Main = () => {
                   to="/contact"
                   activeClassName="active"
                   activeStyle={{ borderBottom: "5px solid #cc0000" }}
-
                 >
                   Contact
                 </NavLink>
