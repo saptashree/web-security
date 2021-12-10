@@ -16,13 +16,13 @@ import PhysicalSecurity from "./Component/PhysicalSecurity";
 import Boardroom from "./Component/Boardroom";
 import Networking from "./Component/Networking";
 import Ourclients from "./Component/Ourclients";
-import Ploader from "./Component/Ploader";
+// import Ploader from "./Component/Ploader";
 
 
 function App() {
   return (
     <div>
-      <Ploader />
+      {/* <Ploader /> */}
       <Main />
       <Switch>
         <Route path="/" exact>

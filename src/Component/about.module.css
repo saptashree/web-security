@@ -1,9 +1,9 @@
-.about1{
-    margin-top: 60px;
+.about1 {
+  margin-top: 60px;
 }
-  
-.content1{
-    position: absolute; /* Position the background text */
+
+.content1 {
+  position: absolute; /* Position the background text */
   top: 200px; /* At the bottom. Use top:0 to append it to the top */
   background: rgb(0, 0, 0); /* Fallback color */
   background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
@@ -11,54 +11,51 @@
   width: 100%; /* Full width */
   padding: 20px; /* Some padding */
 }
-.content1 h1{
-    font-size: 49px;
+.content1 h1 {
+  font-size: 49px;
 }
-.content1 p{
-    font-size: 25px;
+.content1 p {
+  font-size: 25px;
 }
-.content2{
-    margin-top: 50px;
+.content2 {
+  margin-top: 50px;
 }
- .content3{
-     margin-top: 30px;
- }
-.content3 p{
-    font-size: 12px;
-font-weight: 400;
-font-family: "Roboto", Sans-serif;
+.content3 {
+  margin-top: 30px;
 }
-.content3 h3{
-text-align: center;
-font-size: 18px;
-margin-top: 10px;
-
+.content3 p {
+  font-size: 12px;
+  font-weight: 400;
+  font-family: "Roboto", Sans-serif;
 }
-.content3 img{
-    margin-top: 30px;
-    display: block;
+.content3 h3 {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.content3 img {
+  margin-top: 30px;
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  
 }
-.content4 img{
-    width: 100%;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.content4 img {
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-.sliding{
-    position: absolute;
+.sliding {
+  position: absolute;
   top: 50%;
   left: 50%;
   margin: 0;
   margin-right: -60%;
   text-align: center;
   transform: translate(-50%, -50%);
-  
 }
-.slideimg{
-    position: relative;
-    margin-top: 20px;
+.slideimg {
+  position: relative;
+  margin-top: 20px;
 }
