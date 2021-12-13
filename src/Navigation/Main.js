@@ -23,7 +23,7 @@ const Main = () => {
   const toggle = () => setIsOpen(!isOpen);
   const logo = (
     <img
-      src="/Images/logo1.png"
+      src="https://www.technocratssollutions.com/wp-content/uploads/2020/12/cropped-cropped-small-round-e1617433026829.png"
       style={{ height: "87px", width: "220px", marginTop: "10px" }}
       alt="logo-1"
     />
