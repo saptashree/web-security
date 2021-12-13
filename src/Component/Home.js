@@ -18,7 +18,7 @@ function Home() {
         <Container>
           <h1 style={{ fontSize: "32px", marginTop: "50px" }}>Welcome To</h1>
           <img
-            src="/Images/logo2.png"
+            src="https://www.technocratssollutions.com/wp-content/uploads/2020/12/cropped-cropped-small-round-e1617433026829.png"
             style={{ width: "300px", height: "300px" }}
           />
           <h1>Technocrats Safety & Security Systems Pvt Ltd</h1>
